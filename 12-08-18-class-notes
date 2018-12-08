@@ -1,0 +1,50 @@
+12-09-18 class notes
+
+Enum is constant data type
+
+Switch
+
+Super keyword
+
+Exception Handling
+
+FileReader
+BurreredReader
+
+Finally
+
+Loop:
+
+If you want to do some repetitive task, you can use loop.
+
+For loop
+For each loop. ToDo
+While loop.     
+Do…while loop
+
+For loop:
+
+for(initialize block; conditional/terminator block; incremental/decremental block){
+
+
+
+}
+
+While loop:
+
+Value
+while(condition){
+
+
+}
+
+Do …while loop:
+
+
+while vs do…while
+
+Array
+
+Scanner
+
+Random
